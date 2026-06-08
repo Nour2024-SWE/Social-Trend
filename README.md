@@ -173,6 +173,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For questions or feedback, please open an issue in the repository.
 
----
 
-**Note**: This analysis is based on synthetic data and intended for educational purposes. Real-world applications would require validation with actual social media data.
